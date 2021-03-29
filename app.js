@@ -12,12 +12,10 @@ fetch('https://jsonplaceholder.typicode.com/photos')
 
     //Then use a forEach loop since it is a JSON Array
 
-    data.forEach(data => {
+    data.forEach(info => {
         
     });{
         jsonOutput +=`
-        
-        
         
         `
     ;}
