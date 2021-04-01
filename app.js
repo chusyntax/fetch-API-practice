@@ -17,7 +17,7 @@ fetch('https://jsonplaceholder.typicode.com/photos')
         <ul>
         <li>ID: ${info.id}</li>
         <li>Title: ${info.title}</li>
-        <li><img src='${info.url}' width='100' height='100'> </li>
+        <li><img src='${info.url}' width='100' height='100'></li>
         </ul>
         `
     });

@@ -1,12 +1,12 @@
 ul li{
     display:flex;
     list-style: none;
-    background:#f4f4f4;
+    background:#d8d5d5;
     font-size:large;
     padding: 10px;
 }
 
 button{
-    background-color:aqua;
+    background-color:rgb(80, 245, 245);
     padding:10px;
 }
